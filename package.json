@@ -1,0 +1,29 @@
+{
+  "name": "observ-increment",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Increment an observable",
+  "license": "MIT",
+  "repository": "bendrucker/observ-increment",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "observ",
+    "observable",
+    "increment"
+  ],
+  "devDependencies": {
+    "observ": "~0.2.0",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
