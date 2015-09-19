@@ -25,5 +25,9 @@
   },
   "files": [
     "index.js"
-  ]
+  ],
+  "dependencies": {
+    "assert-observ": "~1.0.0",
+    "assert-ok": "~1.0.0"
+  }
 }
