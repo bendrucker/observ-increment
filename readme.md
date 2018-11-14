@@ -1,4 +1,4 @@
-# observ-increment [![Build Status](https://travis-ci.org/bendrucker/observ-increment.svg?branch=master)](https://travis-ci.org/bendrucker/observ-increment)
+# observ-increment [![Build Status](https://travis-ci.org/bendrucker/observ-increment.svg?branch=master)](https://travis-ci.org/bendrucker/observ-increment) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/observ-increment.svg)](https://greenkeeper.io/)
 
 > Increment an observable
 
